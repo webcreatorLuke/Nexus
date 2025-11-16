@@ -10,4 +10,4 @@ A futuristic e-commerce website with smooth animations and modern design.
 - Animated backgrounds
 
 ## Live Demo
-[View Site](https://yourusername.github.io/repo-name)
+[View Site](https://github.com/webcreatorLuke)
